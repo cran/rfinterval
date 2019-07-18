@@ -1,0 +1,10 @@
+5c9d2732f7c55e2ea2f0278d271ada71 *DESCRIPTION
+7e790771a1ed6a461719252775a847f2 *NAMESPACE
+6fedbeebe252551d51128f8cad1f1e85 *R/data.R
+c8d1fb7319cf24ac4cb15b92ba542168 *R/rfinterval.R
+2bb46ec1e03d792f7c1dafe7136cb1ff *R/sim_data.R
+39a2737134990c81a098d4c608efb4ea *data/BeijingPM25.rda
+c6a4ebf93137418b461ae32863732814 *man/BeijingPM25.Rd
+79af6de3ffa2343a5b4b0d7781fa1a75 *man/rfinterval.Rd
+fa3fe502041310ef31356f3b8cdd4b9b *man/sim_data.Rd
+4d9677e483b5b4b896c7786c4d7d5574 *tests/testthat.R
